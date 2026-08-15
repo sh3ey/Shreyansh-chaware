@@ -13,7 +13,7 @@
 - 📊 Passionate about **Data Analytics, Generative AI & Cloud Engineering**
 - 💡 Interested in solving real-world problems using data and technology
 - 🌱 Currently learning **Python, SQL, Power BI, React.js & DSA**
-- 🏆 NIMCET Qualified (AIR 4921)
+- 🏆 NIMCET Qualified 
 - 📫 Reach me at: **shreyanshchaware@email.com**
 
 ---
